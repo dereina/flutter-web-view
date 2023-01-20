@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # gobuddie
 
 A Webview for loading gobuddy website
@@ -17,4 +16,3 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 =======
 # flutter-web-view
->>>>>>> 510588bbea820749b5a739653564140dfe0f7c33
