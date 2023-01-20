@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # gobuddie
 
 A Webview for loading gobuddy website
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# flutter-web-view
+>>>>>>> 510588bbea820749b5a739653564140dfe0f7c33
